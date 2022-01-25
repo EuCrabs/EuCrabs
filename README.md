@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evgeniy
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in development
+- 🌱 I’m currently learning html, css, js, php and python
 
 <!---
 EuCrabs/EuCrabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
