@@ -1,6 +1,12 @@
-- 👋 Hi, I’m Evgeniy
-- 👀 I’m interested in development
-- 🌱 I’m currently learning html, css, js, php and python
+Hello, I'm Evgeniy. It is my github profile where I try to learn some languages (Python and Java) for my own targets.
+I'm an quality assurance engineer and currently work at Mission:Luna as a manual QA.
+I like learn new ways in IT and try programming.
+
+Test automation is not my dream, but I'll exactly involve in it.
+
+I'd like to became a super specialist with really good hard skills and perfect soft skills.
+
+Building a stable development process in any projects is my goil!
 
 <!---
 EuCrabs/EuCrabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
