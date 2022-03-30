@@ -6,7 +6,7 @@ Test automation is not my dream, but I'll exactly involve in it.
 
 I'd like to became a super specialist with really good hard skills and perfect soft skills.
 
-Building a stable development process in any projects is my goil!
+Building a stable development process is my uphold the goal!
 
 <!---
 EuCrabs/EuCrabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
